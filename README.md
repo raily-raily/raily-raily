@@ -13,4 +13,4 @@ I am a passionate developer with a keen intres in building efficient and scalabl
 -  📨 email:[jerommacharia6@gmail.com]
 -  📱 phone [+254704243539]
 - ### 📊 Github stats
-- ![raily's github stats] 
+- ![raily's github stats] https://github-readme-stats.vercel.app/api?username=raily-raily)
