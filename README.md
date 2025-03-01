@@ -10,7 +10,7 @@ I am a passionate developer with a keen intres in building efficient and scalabl
 -  **Tools** Git, Docker, vs code,postman
 
 -  ### contact me
--  📨 email:.jerommacharia6@gmail.com
+-  📨 email:[jerommacharia6@gmail.com]
 -  📱 phone [+254704243539]
 - ### 📊 Github stats
-- ![jerom's Github stats] (https:s//github-readme-stats.vercel.app/api? raily-raily
+- ![raily's github stats] 
