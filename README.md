@@ -6,8 +6,8 @@ I am a passionate developer with a keen intres in building efficient and scalabl
 ### 🔧 Tech stack 
 - **Languages:** JavaScript, python, c++, jav
 -  **Framework:** Reacts.js, Node.js, Django, Flask
--   **Database** MysQL, PostgresQL, MongoDB
--  **Tools** Git, Docker, vs code,postman
+-   **Database:** MysQL, PostgresQL, MongoDB
+-  **Tools:** Git, Docker, vs code,postman
 
 -  ### contact me
 -  📨 email: railyoffical2@gmail.com
